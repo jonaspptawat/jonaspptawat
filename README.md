@@ -19,6 +19,8 @@ int main()
         "International College of Digital Innovation",
         "Data science path"
     }
+    
+    return 0;
 }
 ```
 
