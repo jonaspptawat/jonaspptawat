@@ -8,17 +8,19 @@ int main()
 {
     string name = "Phonphrm";
     int age = 21;
+    
     string interests[] = {
         "Artificial intelligence🤖",
         "Internet of things👨‍💻",
         "Coffee brewing",
         "Music🎵"
-    }
+    };
+    
     string undergrad[] = {
         "Chiang Mai University",
         "International College of Digital Innovation",
         "Data science path"
-    }
+    };
     
     return 0;
 }
