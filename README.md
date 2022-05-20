@@ -12,7 +12,7 @@ int main()
     string interests[] = {
         "Artificial intelligence🤖",
         "Internet of things👨‍💻",
-        "Coffee brewing",
+        "Coffee brewing☕",
         "Music🎵"
     };
     
